@@ -1,4 +1,0 @@
-shopping list
-- eggs
-- apple
-- banana
